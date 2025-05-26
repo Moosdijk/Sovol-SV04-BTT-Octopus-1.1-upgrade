@@ -3,7 +3,7 @@ This repo will house information related to upgrading the SV04 to use the BTT Oc
 
 The goal is to reuse the SV04 ribbon cables. 
 For the labels: 
-Let toolhead = toolhead A
+Left toolhead = toolhead A
 Right toolhead = toolhead B
 
 The ribbon cables come in colors starting from black and ending in brown.
